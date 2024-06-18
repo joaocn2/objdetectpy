@@ -1,6 +1,8 @@
 Deteção de objetos em python, apartir de um modelo treinado, em tempo de real de uma webcam
 
-site do yolo https://pjreddie.com/darknet/yolo/
+OBS: o arquivo yolov3.weights é muito grande para ser hospedado no github e precisa ser baixado no site do yolo
+
+Site do yolo https://pjreddie.com/darknet/yolo/
 
 Config: https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
 
