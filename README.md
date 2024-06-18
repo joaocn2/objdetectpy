@@ -1,4 +1,4 @@
-Servidor Flaks local com detecao de objetos
+Servidor Flsk local com detecao de objetos
 
 OBJETOS na lista que o modelo previamente treinou são detectados
 ![2024-06-18_14h01_46](https://github.com/joaocn2/objdetectpy/assets/65625548/767a4a59-43ce-4d2b-8e5a-6eacb28f342c)
